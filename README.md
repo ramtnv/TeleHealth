@@ -1,4 +1,4 @@
-# Careflow — Telehealth Dispatch Engine
+# TeleHealth — Careflow Dispatch Engine
 
 A small, runnable telehealth dispatch application with an in-memory matching service and a responsive React operations dashboard. Patients are assigned in FIFO order; when multiple clinicians are available, the clinician who has been idle the longest is selected.
 
